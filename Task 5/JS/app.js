@@ -1,3 +1,5 @@
+"use strict";
+
 class User {
     #phone;
     constructor(name, phone) {
